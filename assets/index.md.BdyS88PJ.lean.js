@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a2 as p}from"./chunks/framework.CbPyf0Of.js";const m=JSON.parse('{"title":"项目介绍","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"},i=p("",14),e=[i];function t(c,o,r,d,h,u){return n(),s("div",null,e)}const f=a(l,[["render",t]]);export{m as __pageData,f as default};

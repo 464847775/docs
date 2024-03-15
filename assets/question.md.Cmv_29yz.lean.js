@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,a2 as n}from"./chunks/framework.CbPyf0Of.js";const g=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"question.md","filePath":"question.md"}'),o={name:"question.md"},t=n("",18),i=[t];function r(d,p,c,l,h,u){return s(),e("div",null,i)}const b=a(o,[["render",r]]);export{g as __pageData,b as default};

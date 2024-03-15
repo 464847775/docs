@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a2 as p}from"./chunks/framework.B16sCCuK.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"lint.md","filePath":"lint.md"}'),e={name:"lint.md"},t=p("",30),l=[t];function i(o,c,r,u,d,h){return n(),a("div",null,l)}const m=s(e,[["render",i]]);export{v as __pageData,m as default};
